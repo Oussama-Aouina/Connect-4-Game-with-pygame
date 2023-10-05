@@ -1,2 +1,4 @@
 # Connect-4-Game-with-pygame
-I have created a Connect Four game using Pygame, where I have personally designed all the visuals and written the code. It is my original creation, and I am making it available for anyone to use if they need it.
+This is a connect four game that i've created for an educative project,
+the technologies used are basicly python object oriented programming and pygame for game dev.
+It's free and anyone can have the right to use it even without mention me.

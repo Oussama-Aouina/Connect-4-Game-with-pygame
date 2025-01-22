@@ -28,7 +28,7 @@ This Connect Four game was developed as an educational project to demonstrate OO
 ## 🚀 Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Connect-4-Game.git
+git clone https://github.com/Oussama-Aouina/Connect-4-Game-with-pygame.git
 ```
 2. Install Pygame
 ```bash
